@@ -1,0 +1,315 @@
+.fx-font-size-10px {
+	font-size: 10px
+}
+
+.fx-font-size-12px {
+	font-size: 12px
+}
+
+.fx-font-size-13px {
+	font-size: 13px
+}
+
+.fx-font-size-14px {
+	font-size: 14px
+}
+
+.fx-font-size-15px {
+	font-size: 15px
+}
+
+.fx-font-size-16px {
+	font-size: 16px
+}
+
+.fx-font-size-18px {
+	font-size: 18px
+}
+
+.fx-font-size-24px {
+	font-size: 24px
+}
+
+.fx-font-size-28px {
+	font-size: 28px
+}
+
+.fx-font-size-32px {
+	font-size: 32px
+}
+
+.fx-font-size-42px {
+	font-size: 42px
+}
+
+.fx-font-size-48px {
+	font-size: 48px
+}
+
+.fx-font-size-50px {
+	font-size: 50px
+}
+
+.fx-font-size-60px {
+	font-size: 60px
+}
+
+.fx-bodyCopyXsmallRegular {
+	font-size: 13px;
+	line-height: 1.5em;
+	font-family: "Cera Regular", sans-serif
+}
+
+.fx-bodyCopyXsmallMedium {
+	font-size: 13px;
+	line-height: 1.5em;
+	font-family: "Cera Medium", sans-serif
+}
+
+.fx-bodyCopyXsmallBold {
+	font-size: 13px;
+	line-height: 1.5em;
+	font-family: "Cera Bold", sans-serif
+}
+
+.fx-bodyCopySmallRegular {
+	font-size: 14px;
+	line-height: 1.5em;
+	font-family: "Cera Regular", sans-serif
+}
+
+.fx-bodyCopySmallMedium {
+	font-size: 14px;
+	line-height: 1.5em;
+	font-family: "Cera Medium", sans-serif
+}
+
+.fx-bodyCopySmallBold {
+	font-size: 14px;
+	line-height: 1.5em;
+	font-family: "Cera Bold", sans-serif
+}
+
+.fx-bodyCopyRegular {
+	font-size: 16px;
+	line-height: 1.5em;
+	font-family: "Cera Regular", sans-serif
+}
+
+.fx-bodyCopyMedium {
+	font-size: 16px;
+	line-height: 1.5em;
+	font-family: "Cera Medium", sans-serif
+}
+
+.fx-bodyCopyBold {
+	font-size: 16px;
+	line-height: 1.5em;
+	font-family: "Cera Bold", sans-serif
+}
+
+.fx-CeraLight {
+	font-family: "Cera Light", sans-serif
+}
+
+.fx-CeraMedium {
+	font-family: "Cera Medium", sans-serif
+}
+
+.fx-CeraRegular {
+	font-family: "Cera Regular", sans-serif
+}
+
+.fx-CeraBold {
+	font-family: "Cera Bold", sans-serif
+}
+
+.fx-OpenSans {
+	font-family: OpenSans
+}
+
+.fx-legal-dark {
+	color: #252525;
+	font-size: 12px
+}
+
+.fx-legal-white {
+	color: #fff;
+	font-size: 12px
+}
+
+.textHyperlinkWithArrow a {
+	position: relative;
+	color: #285a93 !important
+}
+
+.fx-titleMedium {
+	font-size: 16px;
+	line-height: 1.2;
+	letter-spacing: .3;
+	font-family: "Cera Medium", sans-serif
+}
+
+.fx-titleBold {
+	font-size: 16px;
+	line-height: 1.2;
+	letter-spacing: .3;
+	font-family: "Cera Bold", sans-serif
+}
+
+.fx-logo-max-wid-200 img {
+	max-width: 200px !important
+}
+
+.fx-logo-max-hgt-60 img {
+	max-height: 60px !important
+}
+
+[class^=".fx-title-xlarge-"] {
+	letter-spacing: -.6em;
+	line-height: 1.2em
+}
+
+[class^=".fx-title-large-"] {
+	letter-spacing: -.6em;
+	line-height: 1.2em
+}
+
+[class^=".fx-title-medium-"] {
+	letter-spacing: -.6em;
+	line-height: 1.2em
+}
+
+[class^=".fx-title-small-"] {
+	letter-spacing: 0;
+	line-height: 1.2em
+}
+
+.fx-title-xlarge-dark,
+.fx-title-xlarge-white,
+.fx-title-xlarge-blue {
+	font-size: 48px;
+	letter-spacing: -1.2px;
+	line-height: 1.25em
+}
+
+.fx-title-large-dark,
+.fx-title-large-white,
+.fx-title-large-blue {
+	font-size: 42px;
+	line-height: initial
+}
+
+.fx-title-medium-dark,
+.fx-title-medium-white,
+.fx-title-medium-blue {
+	font-size: 36px
+}
+
+.fx-title-small-dark,
+.fx-title-small-white,
+.fx-title-small-blue {
+	font-size: 32px
+}
+
+.fx-title-small-dark,
+.fx-title-medium-dark,
+.fx-title-large-dark,
+.fx-title-xlarge-dark {
+	color: #222
+}
+
+.fx-title-small-white,
+.fx-title-medium-white,
+.fx-title-large-white,
+.fx-title-xlarge-white {
+	color: #fff
+}
+
+.fx-title-small-blue,
+.fx-title-medium-blue,
+.fx-title-large-blue,
+.fx-title-xlarge-blue {
+	color: #009ae0
+}
+
+@media only screen and (min-width:768px) {
+	[class^=".fx-title-xlarge-"] {
+		letter-spacing: -1.2em
+	}
+	[class^=".fx-title-large-"] {
+		letter-spacing: -1.2em
+	}
+	[class^=".fx-title-small-"] {
+		letter-spacing: -.6em
+	}
+}
+
+@media only screen and (max-width:991px) {
+	.fx-title-xlarge-dark,
+	.fx-title-xlarge-white,
+	.fx-title-xlarge-blue {
+		font-size: 32px
+	}
+	.fx-title-large-dark,
+	.fx-title-large-white,
+	.fx-title-large-blue {
+		font-size: 28px;
+		line-height: initial
+	}
+	.fx-title-medium-dark,
+	.fx-title-medium-white,
+	.fx-title-medium-blue {
+		font-size: 24px
+	}
+	.fx-title-small-dark,
+	.fx-title-small-white,
+	.fx-title-small-blue {
+		font-size: 22px
+	}
+	.fx-font-size-50pt {
+		font-size: 32px
+	}
+	.fx-font-size-48pt {
+		font-size: 32px
+	}
+	.fx-font-size-45pt {
+		font-size: 28px
+	}
+	.fx-font-size-36pt {
+		font-size: 24px
+	}
+	.fx-font-size-32pt {
+		font-size: 22px
+	}
+	.fx-font-size-24pt {
+		font-size: 20px
+	}
+	.fx-font-size-20pt {
+		font-size: 18px
+	}
+}
+
+@media only screen and (max-width:767px) {
+	.fx-title-xlarge-dark,
+	.fx-title-xlarge-white,
+	.fx-title-xlarge-blue {
+		font-size: 32px
+	}
+	.fx-title-large-dark,
+	.fx-title-large-white,
+	.fx-title-large-blue {
+		font-size: 28px;
+		line-height: initial
+	}
+	.fx-title-medium-dark,
+	.fx-title-medium-white,
+	.fx-title-medium-blue {
+		font-size: 24px
+	}
+	.fx-title-small-dark,
+	.fx-title-small-white,
+	.fx-title-small-blue {
+		font-size: 22px
+	}
+}
